@@ -1,1 +1,3 @@
-# multiplayer_blackjack
+# Multiplayer Blackjack
+
+todo: readme
