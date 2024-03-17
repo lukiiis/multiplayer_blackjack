@@ -43,9 +43,9 @@ Gameplay example:
 
 ## Authors
 
-- Łukasz Czyszczoń - [lukiiis](https://github.com/lukiiis)
+- [Łukasz Czyszczoń](https://github.com/lukiiis)
 
-- Krzysztof Cybulski - [zysio](https://github.com/zysio)
+- [Krzysztof Cybulski](https://github.com/zysio)
 
 ## License
 
