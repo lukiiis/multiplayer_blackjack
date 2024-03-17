@@ -16,11 +16,38 @@ Application also use JDBC MySQL Connector used to connect the application to the
 To set up the game, follow these steps:
 
 1. Clone this repository to your local machine using: `git clone https://github.com/lukiiis/multiplayer_blackjack.git`
-2. todo
-3. todo
-4. todo
+2. Open project in your IDE
+3. Launch Casino.java and User.java file in your IDE
+
+## Built with
+
+* Java
+* MySQL
+
+## Screenshots
+
+Gameplay example:
+
+### User 1
+
+![alt text](img/user1.png)
+
+### User 2
+
+![alt text](img/user2.png)
+![alt text](img/user2_2.png)
+
+### Server
+
+![alt text](img/server.png)
 
 ## Authors
 
-- [lukiiis](https://github.com/lukiiis)
-- [zysio](https://github.com/zysio)
+- Łukasz Czyszczoń - [lukiiis](https://github.com/lukiiis)
+
+- Krzysztof Cybulski - [zysio](https://github.com/zysio)
+
+## License
+
+This project is licensed under the GNU General Public License
+
