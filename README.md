@@ -46,8 +46,3 @@ Gameplay example:
 - [Łukasz Czyszczoń](https://github.com/lukiiis)
 
 - [Krzysztof Cybulski](https://github.com/zysio)
-
-## License
-
-This project is licensed under the GNU General Public License
-
